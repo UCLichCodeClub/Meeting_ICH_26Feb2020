@@ -8,6 +8,42 @@ Beamer is a LaTeX document class for creating presentation slides, with a wide r
 
 See https://en.wikipedia.org/wiki/LaTeX and https://en.wikipedia.org/wiki/Beamer_(LaTeX) for definitions and a bit of history.  
 
-For this session of the UCL ICH Code club you have to install TeX 
+For this session of the UCL ICH Code club you have to install MikTeX version 2.9 in your computer; download it (installer is 233MB) from 
+https://miktex.org/download Once downloaded, run basic-miktex-2.9.7351-x64.exe (or similar name) from your download directory. Accept conditions and set installation scope (e.g. only for you, or if you're an aministrator, you have the option to set up MiKTeX for all users). In my installation, its location is
+
+c:\Users\userUCL\AppData\Local\Programs\MixTeX2.9
+
+where userUCL is my UCL username.
+
+Set preferred paper as A4, and Ask me first to the question Install missing packages on-the-fly? 
+
+Start installation; check for updates now; Close the wizard.
+
+You may be notified of updates, for example to mixtex-misc and to ltxbase; click update now. tThis install package updates.
+
+Once this is installed, I recommend you download sumatraPDF3.1.2, a pdf reader that works well with TeXworks, the editor installed by MiKTeX:
+
+https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
+
+Run SumatraPDF-3.1.2-64-install.exe (or something similar) from your downloads directory.
+
+Sumatra is available for Windows OS, I don't know what pdf viewer you may use.  TeXworks allows comping TeX code and creating pdf's, I'm sure it'll find a pdf reader in your Mac..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
