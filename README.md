@@ -8,4 +8,6 @@ Beamer is a LaTeX document class for creating presentation slides, with a wide r
 
 See https://en.wikipedia.org/wiki/LaTeX and https://en.wikipedia.org/wiki/Beamer_(LaTeX) for definitions and a bit of history.  
 
+For this session of the UCL ICH Code club you have to install TeX 
+
 
