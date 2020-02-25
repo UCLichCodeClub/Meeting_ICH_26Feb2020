@@ -31,9 +31,10 @@ Sumatra is available for Windows OS, I don't know what pdf viewer you may use.  
 
 Run TeXworks from your start window (or equivalent in Mac).  
 
-Save the files First_beamer.tex  and First_bemer_UCL.tex from this repository in a directory, e.g. beamerFiles\ and open them with TeXworks.  The first time you run beamer it'll ask you whether you want to install programmes etc.  The default option <Random package repository> should be OK. There may be a few packages and style files to be installed.  Each package has its own directory in c:\Users\userUCL\AppData\Local\Programs\MixTeX2.9\
-  
 
+Save the files First_beamer.tex, First_beamer_UCL.tex and First_beamer_UCL.tex from this repository in a directory, e.g. beamerFiles\ and open them with TeXworks.  The first time you run beamer it'll ask you whether you want to install programmes etc.  The default option <Random package repository> should be OK. There may be a few packages and style files to be installed.  Each package has its own directory in c:\Users\userUCL\AppData\Local\Programs\MixTeX2.9\
+  
+Go to https://github.com/UCL/ucl-beamer and copy the directory banners to your \beamerfiles directory
   
 To compile your code, click the green arrow on the top left of the editor. Compilation might generate some strange messages... and if successful, you'll see your pdf in sumatra.
 
