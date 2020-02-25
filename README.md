@@ -42,6 +42,8 @@ See a theme/colortheme gallery in
 
 http://deic.uab.es/~iblanes/beamer_gallery/
 
+Please bring your laptop with MikTeX installed. The meeting will take place on Wed 26th Feb in Room C of the Wolfson Centre, 12:30-1:30pm.
+
 
 
 
