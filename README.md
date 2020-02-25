@@ -15,7 +15,7 @@ c:\Users\userUCL\AppData\Local\Programs\MixTeX\2.9
 
 where userUCL is my UCL username.
 
-Set preferred paper as A4, and Ask me first to the question Install missing packages on-the-fly? 
+If asked, set preferred paper as A4, and Ask me first to the question Install missing packages on-the-fly? 
 
 Start installation; check for updates now; Close the wizard.
 
