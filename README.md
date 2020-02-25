@@ -33,13 +33,13 @@ Run TeXworks from your start window (or equivalent in Mac).
 
 Save the file Hello_world.tex from this repository in a directory, e.g. beamerFiles\ and open it with TeXworks.  The first time you run beamer it'll ask you whether you want to install programmes etc.  The default option <Random package repository> should be OK. There may be a few packages and style files to be installed.  Each package has its own directory in c:\Users\userUCL\AppData\Local\Programs\MixTeX2.9\
   
-
-
 To compile your code, click the green arrow on the top left of the editor. Compilation might generate some strange messages... and if successful, you'll see your pdf in sumatra.
 
 See a theme/colortheme gallery in 
 
 http://deic.uab.es/~iblanes/beamer_gallery/
+
+
 
 
 
